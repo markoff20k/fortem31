@@ -207,7 +207,7 @@ export class Setup extends React.Component<Props, SetupScreenState> {
                                 <SetupInfoBlock
                                     logo={logo}
                                     backgroundImage={bgStep3}
-                                    title="Welcome to OpenDax software"
+                                    title="Welcome to Fortem Tech software"
                                     description=""
                                 />
                             </div>
